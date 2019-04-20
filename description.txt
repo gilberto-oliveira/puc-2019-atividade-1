@@ -1,0 +1,29 @@
+Uma nova discussão que pode lhe interessar foi iniciada:
+
+Atividade prática - Página interativa de um filme
+
+Usando apenas a HTML e a CSS, construa uma página Web que represente um filme de cinema (qualquer um, à sua preferência). Use algum site de cinema (ex.:adorocinema.com) para obter as informações necessárias.
+
+As informações que sua página deve conter são:
+
+Título do filme em português - OK
+Título original do filme  (lembre-se do atributo de idioma) - OK
+Ano de produção - OK
+País(es) de origem - OK
+Gênero(s) - OK
+Recomendação de idade - OK
+Diretor(es) - OK
+Elenco (principais atores e papeis; mínimo de 3) - OK
+Poster - OK
+Imagens (mínimo de 3) - OK
+Trailer (incorporado à página) - OK
+Sinopse - OK
+Os requisitos tecnológicos são:
+
+usar apenas HTML e CSS
+os códigos devem ser válidos (use o HTML5 Validator e o CSS Validator)
+Em seguida, usando a JavaScript, você deve ajustar a sua página para permitir a visualização ampliada de imagens do filme, a partir das suas versões reduzidas (thumbnails), da mesma forma que as lojas virtuais usam. Veja esse exemplo:
+
+Ao clicarmos nas imagens pequenas (thumbnails), a imagem grande deve ser alterada e a imagem pequena deve receber algum destaque ou realce. Essa operação deve ocorrer necessariamente por meio de uma função JavaScript.
+
+Observação: A atividade de projeto é livre, isto é, não é obrigatória e não vale pontos. No entanto, é uma excelente oportunidade de prática dos conceitos e técnicas apresentados na disciplina. Não há uma solução para o projeto e não deve ser esperada uma correção por parte do professor. A atividade está sendo criada como um fórum, para que você compartilhe a sua solução com os seus colegas e para que possa contribuir analisando, criticando e aprendendo com as soluções deles. Dessa forma, estaremos dando um passo em direção a um dos pilares da EAD na PUC Minas que é a aprendizagem colaborativa.
